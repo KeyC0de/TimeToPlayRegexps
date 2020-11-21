@@ -1,0 +1,73 @@
+1. 
+
+42
+1,234
+6,368,745
+
+12,34,545
+1234
+
+Match upper 3 only:
+^\d{1,3}$|(^\d{1,3}(,\d{3})+)		29
+^\d{1,3}(,\d{3})*$					18
+
+
+2. 
+
+Satoshi Nakamoto
+Alice Nakamoto
+RoboCop Nakamoto
+
+satoshi Nakamoto
+Mr. Nakamoto
+Nakamoto
+Satoshi nakamoto
+
+Match upper 3 only:
+^[A-Z]\w+\s(Nakamoto)$				22
+
+
+3. 
+
+Alice eats apples.
+Bob pets cats.
+Carol throws baseballs.
+Alice throws Apples.
+BOB EATS CATS.
+
+RoboCop eats apples.
+ALICE THROWS FOOTBALLS.
+Carol eats 7 cats.
+
+^(Alice|Bob|Carol)\s(eats|pets|throws)\s(apples|cats|baseballs).$	65
+
+
+4. Check for strong password.
+
+C0brellot8-!
+jfdksjfdjslfja;jfkljdlsj
+Ginfdsk0fjkds;
+h7854hdfkhg
+78594357
+HGLKDSHGJKFHS7895473=-
+
+
+^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[-+_!@#:$%^&*.,?]).+$			57
+
+
+5. Remove whitespace from the beginning and the end of the string.
+
+     fjkdl;sj fdslfj sdkf djks flksd fjkds flksdj          
+
+(^[\t ]+)|([\t ]+)$													19
+
+
+6. Replace all two space groups with a tab.
+
+Find: 	 (^|\G)[ ]{2}		// \G matches the end of the previous successful match
+Replace: \t
+
+
+7. Search for unicode chars:
+
+[^\x00-\x7f]

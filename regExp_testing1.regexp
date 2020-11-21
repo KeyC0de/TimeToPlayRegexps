@@ -1,0 +1,111 @@
+Examples to learn regexps and do magic!
+
+1.
+
+917-555-1234
+and
+646.867-5309	
+you goT it fDs fD9 fdD df fdSf dsa dsafdaSfaSDf
+
+
+2.
+
+The colors of the rainbow have many colors and the 
+rainbow does not have a single colour.
+YUP YAPI GOM
+
+3.
+
+This is something
+is about 
+a blah
+sequence of words
+Hello and 
+Goodbye and
+go go go . , bab.y dol.;'[[]l!
+[y]
+[]
+
+
+4. Alternation
+
+ineter
+inet
+iNET
+iorgy
+NET
+NETTER
+
+daniel@shiffman.net
+	ornet
+daniel.shiffman@gmail.com
+and
+daniel.shiffman@nyu.edu
+lakis.mamalakis@yahoo.gr
+
+yumm.param@xFx.org
+
+yupi@.org
+yupi@org
+
+org
+
+@*\.((org)|(edu)|(com)|(gr)|(net))\b
+
+
+5. 
+
+The lynk is quite a link don't you think?
+
+
+6. 
+
+Shiffman, Daniel
+Shiffma, Daniel
+Schiffman, Danielle
+Sheeefmahn, Danny
+j, Dannyer
+
+By using:
+$2, $1
+i replace the above with the below 
+(just alternating positions of first and last names):
+
+Daniel, Shiffman
+Daniel, Shiffma
+Danielle, Schiffman
+Danny, Sheeefmahn
+Dannyer, j
+
+To select above 4 lines use:
+(\w+),\s+(\w+)
+
+
+7.
+
+[Google](http://google.com)
+[itp](http://itp.nyu.edu)
+[Coding Rainbow](http://codingrainbow.com)
+
+Use the following:
+Find: 		(\[.*\])(\(http://.*\))
+Replace: 	$2$1
+
+(http://google.com)[Google]
+(http://itp.nyu.edu)[itp]
+(http://codingrainbow.com)[Coding Rainbow]
+
+
+8. Back Reference testing
+
+This is is some text text with 
+double double words some where I I I am
+not not sure why why I am typing ok?
+rainbow RAINBOW 
+unicorn unicorn unicron!
+unicorn
+Unicorn
+
+use the following to get a sequence of two equal words separated by a space: 
+(\b\w+\b)\s\1
+

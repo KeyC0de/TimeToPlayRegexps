@@ -1,0 +1,55 @@
+#Script started on Πεμ 15 Ιούν 2017 10:45:09 πμ EEST
+#AWK is a language for processing text files
+#AWK was created at Bell Labs released in 1977
+#Named after Alefred Aho, Peter Weinberger and Brian Kernighan
+#TAPL - The AWK Programming Language
+#It is also available in windows as GAWK
+#!/bin/bash
+
+#A file is trated as a sequence of records and by default each line is a record.
+# Each word a field
+
+0 {
+awk '{print $1}' story.txt # prints first word from every line of story.txt
+awk '{print $1, $2}' story.txt # prints first & seconds words
+awk '/the/' story.txt # returns every line containing the word 'the'
+awk '/^the/' story.txt # returns every line starting with 'the'
+awk '/the$/' story.txt
+awk '/[0-9]/' story.txt # returns every line only containing numbers
+awk '/[a-z]/' story.txt # retuns every line only containing lower case chars
+awk '/hel+o/' story.txt
+awk '/abc|123/' story.txt #eg. abc123, abcdef123 123abc, returns any lines with abc or 123
+
+# awk variables..
+# FS = Input field separator value
+# OFS = Output field separator value
+# NF = Number of fields on the current line
+# NR = Number of records in the current line
+# RS = Record separator value
+# ORS = Output record separator
+# FILENAME = Current file name being processed and probably a few more :0)
+
+# {functions go int curly brackets}
+awk '{print NR}' story.txt # prints line number for every line processed
+
+#END means the statement that follows should be executed once AWK has finished processing
+awk 'END{print NR}' story.txt # counts line in a file (similar to 'wc -l')
+#We use BEGIN to perform actions before the file is processed
+awk 'BEGIN{print "the start"};{print};END{print "the end"}' story.txt
+
+# '~' regular expression match
+awk '{if(NR~/^2$/)print}' story.txt # would print line 2 from story.txt
+awk '{if(NR~2)print}' story.txt # would print any line containing number 2
+# '!~' negated match
+awk '{if(NR==2)print}' story.txt # would print only line 2 from story.txt
+awk '{if(NR!=2)print}' story.txt
+}
+
+
+awk -F":" '
+BEGIN { 
+print  "==============================================================="
+printf "%-8s %-3s %+6s %-15s %-15s\n","User","UID","GID","Home","Shell"
+print  "==============================================================="
+}
+NR==1,NR==10 { printf "%-8s %3d %6d %-15s %-15s\n",$1,$3,$4,$6,$7 } ' /etc/passwd

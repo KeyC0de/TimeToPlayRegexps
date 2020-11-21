@@ -1,0 +1,1206 @@
+Script started on Πεμ 15 Ιούν 2017 12:14:54 μμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print }' test.txt
+awk: cannot open test.txt (No such file or directory)
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ mv awk_test.txt test.txt
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ mv awk_test.txt test.txtawk '{ print }'[C[C[C[C[C[C[C[C[C
+Frank
+Testing 1
+Hello WOrld
+TesT
+123 Testing
+you got it!
+Script started on Πεμ 15 Ιούν 2017 10:41:46 πμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;32mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ exit
+exit
+
+Script done on Πεμ 15 Ιούν 2017 10:44:51 πμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [H[2J]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print }' test.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Πεμ 15 Ιούν 2017 12:15:26 μμ EEST
+Script started on Πεμ 15 Ιούν 2017 12:15:38 μμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ exitawk '{ print }' test.txtexit[K[Kexitawk '{ print }' test.txtmv awk_test.txt[C[C[C[C[C[C[C[C[Cawk '{ print }'[C[C[C[C[C[C[C[C[Cmv awk_test.txt[C[C[C[C[C[C[C[C[Cawk '{ print }'[C[C[C[C[C[C[C[C[C
+Frank
+Testing 1
+Hello WOrld
+TesT
+123 Testing
+you got it!
+Script started on Πεμ 15 Ιούν 2017 10:41:46 πμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;32mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ exit
+exit
+
+Script done on Πεμ 15 Ιούν 2017 10:44:51 πμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print }' test.txt
+Frank
+Testing 1
+Hello WOrld
+TesT
+123 Testing
+you got it!
+Script started on Πεμ 15 Ιούν 2017 10:41:46 πμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;32mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ exit
+exit
+
+Script done on Πεμ 15 Ιούν 2017 10:44:51 πμ EEST
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ nano test.txt 
+[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;37H(B[0;7m[ Reading File ][3d(B[m[24;36H(B[0;7m[ Read 11 lines[14d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                 File: test.txt                                         [3;1H(B[mFrank[4dTesting 1[5dHello WOrld[6dTesT[7d123 Testing[8dyou got it![9dScript started on Πεμ 15 Ιούν 2017 10:41:46 πμ EEST[10d^[]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)^G^[[01;32mnikosl90@Cobra^[[00m:^[[$[11;1Hexit[13dScript done on Πεμ 15 Ιούν 2017 10:44:51 πμ EEST[25d(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[26d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[3d[4d[5d[6d[7d[8d[9d[10d[11d[12d[13d[14d[13;49H[1;79H(B[0;7mModified[13;48H(B[m [24d[K[13;48H                                     [K[A[Aexit   [K[A$0m:^[[01;34m~/Regular_Expressions_(regexps)^[[00m$ exit[K         [K                                     ^[]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)^G^[[01;32mnikosl90@Cobra^[[00m:^[[K     [K                     [K[K                                                 [K[9;52H                                         [K[8;12H[24d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                            [25;1H Y(B[m Yes[K[26d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[24;62H(B[0;7mFile Name to Write: test.txt                                [25d^G(B[m Get Help[18G(B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append[52G(B[0;7mM-B(B[m Backup File[26d(B[0;7m^C(B[m Cancel[17G (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend[52G(B[0;7m^T(B[m To Files[24;29H[?25l[35G[39;49m(B[m[1K (B[0;7m[ Wrote 6 lines ](B[m[K[8;12H[24d[J[1;79H(B[0;7m        [26;88H(B[m[26;1H[?12l[?25h[?1049l[?1l>]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ nano test.txt awk '{ print }' test.txt
+Frank
+Testing 1
+Hello WOrld
+TesT
+123 Testing
+you got it!
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print }' test.txt[C[1@ [1@![1@1[1P[1P[1@$[1@1
+Frank
+Testing
+Hello
+TesT
+123
+you
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print $1 }' test.txt[1P[1@2
+
+1
+WOrld
+
+Testing
+got
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print $2 }' test.txt[Kawk '{ print $2 }' test.txt[C[1@$[1@1[1@.
+Frank
+Testing1
+HelloWOrld
+TesT
+123Testing
+yougot
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print $1.$2 }' test.txt[1P[1@ 
+Frank
+Testing1
+HelloWOrld
+TesT
+123Testing
+yougot
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print $1 $2 }' test.txt[1@,
+Frank 
+Testing 1
+Hello WOrld
+TesT 
+123 Testing
+you got
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print $1, $2 }' test.txt[1P
+Frank
+Testing1
+HelloWOrld
+TesT
+123Testing
+yougot
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print $1 $2 }' test.txt[1@ 
+Frank
+Testing1
+HelloWOrld
+TesT
+123Testing
+yougot
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{ print $1  $2 }' test.txt[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[1P[1P[1P[1P[1P[1P[1P test.txt[1Ptest.txt[1Pest.txt[1Pst.txt[1Pt.txt[1P.txt[1Ptxt[1Pxt[1Pt[K[K[Kawk '/[a-z]/ { print }' test.txt 
+Frank
+Testing 1
+Hello WOrld
+TesT
+123 Testing
+you got it!
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '/[a-z]/ { print }' test.txt [1P[1P[1@0[1@-[1@9[1P
+Testing 1
+123 Testing
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '/[0-9]/ { print }' test.txt [C[1@$
+Testing 1
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '/[0-9]$/ { print }' test.txt [Kawk '/[0-9]$/ { print }' test.txt [C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[1@ [1@f[1P[1@i[1@f[1@([1@$[1@1[C[1@ [1@~[C[C[C[C[C[C[C[C[1@ [1@/[1@1[1@2[1@3[1@/) print }' test.txt  [A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+123 Testing
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt
+[01;31m[KTest[m[King 1
+[01;31m[KTesT[m[K
+123 [01;31m[KTest[m[King
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt[1P[1P[1P
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep test test.txt[3@-i [C[C[C[C[C[C[C[C[C[C[C[C[C
+[01;31m[KTest[m[King 1
+[01;31m[KTesT[m[K
+123 [01;31m[KTest[m[King
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt | awk {if [K(/[K$1 ~/%[K^[0 -9'[K]/) print} test.txt 
+bash: syntax error near unexpected token `('
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt | awk {if($1 ~/^[0--9]/) print} test.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /^[0[1@-[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+bash: syntax error near unexpected token `('
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt | awk {if($1 ~ /^[00-9]/) print} test.txt [C[1@ 
+bash: syntax error near unexpected token `('
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt | awk {if($1 ~ /^[00-9]/ ) print} test.txt [C[C[C[C[C[C[C[C[C[1@{[1P[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep -i test test.txt | awk {if($1 ~ /^[00-9]/ {print} test.txt [1@'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'{if($1 ~ /^[[1@0[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+awk: line 1: syntax error at or near {
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt | awk '{if($1 ~ /^[[0-9]/ {print}' test.txt [1P[1P[1@ 
+awk: line 1: syntax error at or near print
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ grep -i test test.txt | awk '{if($1 ~ /^[[0-9]/ print}' test.txt [1@)
+123 Testing
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ emacs -nw test.txt 
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H[7mFile Edit Options Buffers Tools Text Help                                               [0m[39;49m[27m
+[A
+Frank[K
+Testing 1[K
+Hello WOrld[K
+TesT[K
+123 Testing[K
+you got it![K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UU-:----F1  [39;49m[1m[30m[48;5;250mtest.txt    [0m[39;49m[30m[48;5;250m   All L1     (Text) ------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[2;2H[C[C[C[C[?25l:[25;6H[30m[48;5;250m**[39;49m[2;7H[?12l[?25h[?12;25h[?25lP[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[K[?25lz[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m2[39;49m[3;10H[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[?25lT[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25lg[?12l[?25h[?12;25h[C[?25l2[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m3[39;49m[4;12H[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[C[?25lH[?12l[?25h[?12;25h[K[C[?25lH[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h	[?25lw[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m4[39;49m[5;5H[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[?25lO[?12l[?25h[?12;25h[?25lM[?12l[?25h[?12;25h[?25lG[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m5[39;49m[6;9H[?12l[?25h[?12;25h[6;12H[?25l:[?12l[?25h[?12;25h[?25l3[?12l[?25h[?12;25h[K[?25l4[?12l[?25h[?12;25h[?25l5[?12l[?25h[?12;25h[?25l6[?12l[?25h[?12;25h	[?25lT[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25lg[?12l[?25h[?12;25h[K[K[K[K[?25ls[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25lg[?12l[?25h[?12;25h[26;1H[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/test.txt...[6;24H[?12l[?25h[?12;25h[26;1H[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/test.txt[K[6;24H[?12l[?25h[?12;25h[25;6H[?25l[30m[48;5;250m--[39;49m[6;24H[?12l[?25h[?12;25h[26;1H[K[6;24H[26;1H[?25l(No files need saving)[6;24H[?12l[?25h[?12;25h[26;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat test.txt
+Frank:Perez
+Testing 1:Testing 2
+Hello WOrld:Hi world
+TesT:OMG
+123 Testing:456 Testing
+you got it!
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [H[2J]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk $[K''{'}'p}'r}'i}'n}'t}' }'$}'2}'[C[C test.txt
+
+1:Testing
+WOrld:Hi
+
+Testing:456
+got
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{print $2}' test.txt[C[1@-[1@F[1@:[1@ 
+Perez
+Testing 2
+Hi world
+OMG
+456 Testing
+
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ man -F | grep [1P[1P[1@a[1@w[1@k[C[C[C[C[C[C[C[C""l"-"[1P"[1P"-"F"
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ man awk | grep "-F"[1P-F"'-F"[C[C[C[K'
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ man awk | grep '-F'[Kman awk | grep '-F'"-F"[1PF"
+       mawk [-W option] [-[01;31m[KF[m[K value] [-v var=value] [--] 'program text' [file ...]
+       mawk [-W option] [-[01;31m[KF[m[K value] [-v var=value] [-f program-file] [--] [file ...]
+       -[01;31m[KF[m[K value       sets the field separator, [01;31m[KF[m[KS, to value.
+       version occurs if needed.  [01;31m[KF[m[Kor example, to evaluate the statements
+       by replacing expr with sprintf(CONV[01;31m[KF[m[KMT, expr), unless expr can be  represented
+       sprintf(3),  and  CONV[01;31m[KF[m[KMT  is a built-in variable used for internal conversion
+       [01;31m[KF[m[Kor example,
+       verted to string, and then interpreted as a regular expression.  [01;31m[KF[m[Kor example,
+       character.  [01;31m[KF[m[Kor example,
+       record is split into fields which are stored in $1, $2, ..., $N[01;31m[KF[m[K.  The  built-
+       in  variable N[01;31m[KF[m[K is set to the number of fields, and NR and [01;31m[KF[m[KNR are incremented
+       by 1.  [01;31m[KF[m[Kields above $N[01;31m[KF[m[K are set to "".
+       Assignment to $0 causes the fields and N[01;31m[KF[m[K to be recomputed.  Assignment to  N[01;31m[KF[m[K
+       rated by O[01;31m[KF[m[KS.  Assignment to a field with index greater than N[01;31m[KF[m[K, increases  N[01;31m[KF[m[K
+       form and then the type is number and string.  [01;31m[KF[m[Kor example,
+              CONV[01;31m[KF[m[KMT   format for internal conversion of  numbers  to  string,  ini‐
+              [01;31m[KF[m[KILENAME  name of the current input file.
+              [01;31m[KF[m[KNR       current record number in [01;31m[KF[m[KILENAME.
+              [01;31m[KF[m[KS        splits records into fields as a regular expression.
+              N[01;31m[KF[m[K        number of fields in the current record.
+              O[01;31m[KF[m[KMT      format for printing numbers; initially = "%.6g".
+              O[01;31m[KF[m[KS       inserted between fields on output, initially = " ".
+                     ted, [01;31m[KF[m[KS is used.
+                     writes expr1 O[01;31m[KF[m[KS expr2 O[01;31m[KF[m[KS ... exprn  ORS  to  standard  output.
+                     Numeric expressions are converted to string with O[01;31m[KF[m[KMT.
+       ses.   Print formats numbers using O[01;31m[KF[m[KMT or "%d" for exact integers.  "%c" with
+                     reads into $0, updates the fields, N[01;31m[KF[m[K, NR and [01;31m[KF[m[KNR.
+                     reads into $0 from file, updates the fields and N[01;31m[KF[m[K.
+                     reads the next record into var, updates NR and [01;31m[KF[m[KNR.
+                     N[01;31m[KF[m[K.
+       expr.   [01;31m[KF[m[Kflush  returns  0  if  expr is an open output stream else -1.  [01;31m[KF[m[Kflush
+       without an argument flushes  stdout.   [01;31m[KF[m[Kflush  with  an  empty  argument  ("")
+       A  return  statement  is not required.  [01;31m[KF[m[Kunction calls may be nested or recur‐
+       sive.  [01;31m[KF[m[Kunctions are passed expressions by  value  and  arrays  by  reference.
+       Extra  arguments  serve  as  local variables and are initialized to null.  [01;31m[KF[m[Kor
+       tional.  [01;31m[KF[m[Kunctions can be referenced before they are defined, but the function
+       and  records  into  fields on [01;31m[KF[m[KS.  mawk uses essentially the same algorithm to
+              (1)    If sep is omitted, it is replaced by [01;31m[KF[m[KS.  Sep can be an  expres‐
+       $1, $2,..., $N[01;31m[KF[m[K.  If $0 is empty, N[01;31m[KF[m[K is set to 0 and all $i to "".
+              E.g.,  if  [01;31m[KF[m[KS  = ":+" and $0 = "a::b:" , then N[01;31m[KF[m[K = 3 and $1 = "a", $2 =
+       If [01;31m[KF[m[KS = "", then mawk breaks the record into individual characters, and, simi‐
+       Setting RS = "\n\n+", makes one or more blank lines separate records.  If [01;31m[KF[m[KS =
+              [01;31m[KF[m[Kor example, if a file is "a b\nc\n\n", RS = "\n\n+" and [01;31m[KF[m[KS = " ", then
+              Changing  [01;31m[KF[m[KS  = "\n", gives two fields "a b" and "c"; changing [01;31m[KF[m[KS = "",
+       "\n([ \t]*\n)+".   [01;31m[KF[m[Kor  compatibility with other awks, setting RS = "" has the
+       always separates records when RS = "" regardless of the  value  of  [01;31m[KF[m[KS.   mawk
+       This  section  describes the order of program execution.  [01;31m[KF[m[Kirst ARGC is set to
+       and program source.  [01;31m[KF[m[Kor example with
+              words += N[01;31m[KF[m[K
+            BEGIN { [01;31m[KF[m[KS = "[^A-Za-z]+" }
+            { for(i = 1 ; i <= N[01;31m[KF[m[K ; i++)  word[$i] = "" }
+              New variables: ENVIRON[] and CONV[01;31m[KF[m[KMT.
+       "\n" is always a field separator regardless of the value in [01;31m[KF[m[KS.
+       appears in records, it is treated as space, and [01;31m[KF[m[KS always determines fields.
+       often improve performance.  [01;31m[KF[m[Kor example, redoing example 3 from above,
+       Posix explicitly leaves the behavior of [01;31m[KF[m[KS = "" undefined, and mentions split‐
+       [01;31m[KF[m[Kinally, here is how mawk handles exceptional cases not discussed in  the  AWK
+              Similarly,  on  entry  to  the  END actions, $0, the fields and N[01;31m[KF[m[K have
+       The  GAWK  Manual,  The [01;31m[KF[m[Kree Software [01;31m[KF[m[Koundation, 1991, is a tutorial and lan‐
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ man awk | grep "F"[K[H[2J]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ man awk | grep "F"'-F'"-F"awk -F: '{print $2}' test.txt[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@-F: [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kemacs -nw shi[Kopping_list.txt
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H[7mFile Edit Options Buffers Tools Text Help                                               [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250mshopping_list.txt[0m[39;49m[30m[48;5;250m   All L1     (Text) -------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[?1l>[?12l[?25h[?1049l[39;49m
+[1]+  Stopped                 emacs -nw shopping_list.txt
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ emacs -nw st[K[Ktset[K[K[Kest.txt
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H[7mFile Edit Options Buffers Tools Text Help                                               [0m[39;49m[27m
+[A
+Frank:Perez[K
+Testing 1:Testing 2[K
+Hello WOrld:Hi world[K
+TesT:OMG[K
+123 Testing:456 Testing[K
+you got it![K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UU-:----F1  [39;49m[1m[30m[48;5;250mtest.txt    [0m[39;49m[30m[48;5;250m   All L1     (Text) ------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[25;34H[?25l[30m[48;5;250m2[39;49m[H
+
+[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m3[39;49m[4;1H[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m4[39;49m[5;1H[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m5[39;49m[6;1H[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m6[39;49m[7;1H[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m7[39;49m[8;1H[?12l[?25h[?12;25h[26d[?25lEnd of buffer[8;1H[?12l[?25h[?12;25h[26d[K[25;6H[?25l[30m[48;5;250m**--F1  [39;49m[1m[30m[48;5;250mtest.txt    [0m[39;49m[30m[48;5;250m   All L8[39;49m[9;1H[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[C[?25lm[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lk[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m9[39;49m[10;1H[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h	[?25lb[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m10[39;49m[11;1H[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[C[?25lc[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[25;35H[?25l[30m[48;5;250m1[39;49m[12;1H[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h	[?25ls[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[25;35H[?25l[30m[48;5;250m2[39;49m[13;1H[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[K[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h	[?25la[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[K[K[K[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[25;35H[?25l[30m[48;5;250m3[39;49m[14;1H[?12l[?25h[?12;25h[?25lm[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[C[?25ls[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lm[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[25;35H[?25l[30m[48;5;250m4[39;49m[15;1H[?12l[?25h[?12;25h[?25lg[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h	[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lf[?12l[?25h[?12;25h[?25lf[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[26;1H[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/test.txt...[15;15H[?12l[?25h[?12;25h[26;1H[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/test.txt[K[15;15H[?12l[?25h[?12;25h[25;6H[?25l[30m[48;5;250m--[39;49m[15;15H[?12l[?25h[?12;25h[26;1H[K[15;15H[26;1H[?25l(No changes need to be saved)[15;15H[?12l[?25h[?12;25h[26;1H[K[15;15H[26;1H[?25l(No files need saving)[15;15H[?12l[?25h[?12;25h[26;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{}'p}'r}'i}'n}'t}'[C[C test.txt
+Frank:Perez
+Testing 1:Testing 2
+Hello WOrld:Hi world
+TesT:OMG
+123 Testing:456 Testing
+you got it!
+
+dairy milk
+produce bananas
+dairy cheese
+produce spinach
+produce apples
+meat salmon
+grocery coffee
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk '{print}' test.txt[C[1@ [C[1@/[1@p[1@r[1@o[1@d[1@u[1@c[1@e[1@/[1@'[1P
+produce bananas
+produce spinach
+produce apples
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$  [Kawk '/produce/ {print $2}' test.txt
+bananas
+spinach
+apples
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk /produce/ {print $2}
+awk: cannot open {print (No such file or directory)
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk /produce/ {print $2}'[1@'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C test.txt
+bananas
+spinach
+apples
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk [K[K[K[Kemacs -nw c[Kawk_commandspawk_commands[Cawk_commandsrawk_commandssawk_commandseawk_commands_awk_commands[C[C[C[C[C[C[C[C[C[C[C[C.tse[K[Kest.txt[1Ptest.txt_test.txt
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H[7mFile Edit Options Buffers Tools Text Help                                               [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250mparse_awk_commands_test.txt[0m[39;49m[30m[48;5;250m   All L1     (Text) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[2d[?25l/[25;6H[30m[48;5;250m**[39;49m[2;2H[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25l/[?12l[?25h[?12;25h[C[?25l{[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[C[?25l$[?12l[?25h[?12;25h[?25l2[?12l[?25h[?12;25h[2;11H[?25l[48;5;80m{[39;49mprint $2}[?12l[?25h[?12;25h[2;11H[?25l{[2;21H[?12l[?25h[?12;25h[26;1H[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/parse_awk_commands_test.txt...[2;21H[?12l[?25h[?12;25h[26;1H[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/parse_awk_commands_test.txt[K[2;21H[?12l[?25h[?12;25h[25;6H[?25l[30m[48;5;250m--[39;49m[2;21H[?12l[?25h[?12;25h[26;1H[K[2;21H[26;1H[?25l(No changes need to be saved)[2;21H[?12l[?25h[?12;25h[26;1H[K[2;21H[26;1H[?25l(No files need saving)[2;21H[?12l[?25h[?12;25h[26;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.txt emacs -nw parse_awk_commands_test.txt[2Pawk -f parse_awk_commands_test.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kemacs[K[K[K[K[Kmv pasr[K[Krse_awk_commands_test.txt para[Kse_awk__commands_test.txt [K[K[K[Kawk
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f [K para[Kse_awk_commands_test.awk parse__awk_commands_test.awk [K[K[K[Ktx[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K.awk test.ttxt
+bananas
+spinach
+apples
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ mv parse_awk_commands_test.txt parse_awk_commands_test.awk[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [3Pemacs -nw parse_awk_commands_test.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pawk '/produce/ {print $2}' test.txt[11P/produce/ {print $2}'/produce/ {print $2}' test.txt[3P[C[C[C[C[C[C[C[C[C[C[C[3@ $2[C[C[C[C[C[C[C[C[C[C[C[11P/produce/ {print $2}'/produce/ {print $2}' test.txtemacs -nw parse_awk_commands_test.txtmv parse_awk_commands_test.txt parse_awk__commands_test.awk[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.awk test.txt[K[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ mv parse_awk_commands_test.txt parse_awk_commands_test.awk[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [3Pemacs -nw parse_awk_commands_test.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[Kawk
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H[7mFile Edit Options Buffers Tools AWK Help                                                [0m[39;49m[27m
+[A
+[38;5;89m/produce/[39;49m {[38;5;60mprint[39;49m $2}[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UU-:----F1  [39;49m[1m[30m[48;5;250mparse_awk_commands_test.awk[0m[39;49m[30m[48;5;250m   All L1     (AWK/l Abbrev) -------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[2d[K
+[?25l[38;5;89m/produce/[39;49m {[38;5;60mprint[39;49m $2}[25;6H[30m[48;5;250m**--F1  [39;49m[1m[30m[48;5;250mparse_awk_commands_test.awk[0m[39;49m[30m[48;5;250m   All L2[39;49m[H
+
+[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m1[39;49m[H
+[?12l[?25h[?12;25h[?25lB[?12l[?25h[?12;25h[?25lE[?12l[?25h[?12;25h[?25lG[?12l[?25h[?12;25h[?25lI[?12l[?25h[?12;25h[?25l[38;5;129mBEGIN[39;49m[?12l[?25h[?12;25h[C[?25l{[?12l[?25h[?12;25h	[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h	[?25l[38;5;60mprint[39;49m[?12l[?25h[?12;25h[C[?25l[1m[91m"                                                                         [0m[39;49m
+[2;16H[?12l[?25h[?12;25h[?25l[38;5;89mP[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mr[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mo[39;49m[?12l[?25h[?12;25h[?25l[38;5;89md[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mu[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mc[39;49m[?12l[?25h[?12;25h[?25l[38;5;89me[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m [39;49m[?12l[?25h[?12;25h[?25l[38;5;89mt[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mo[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m [39;49m[?12l[?25h[?12;25h[?25l[38;5;89mp[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mi[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mc[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mk[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m [39;49m[?12l[?25h[?12;25h[?25l[38;5;89mu[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mp[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m [39;49m[?12l[?25h[?12;25h[?25l[38;5;89mf[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mr[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mo[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mm[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m [39;49m[?12l[?25h[?12;25h[?25l[38;5;89mt[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mh[39;49m[?12l[?25h[?12;25h[?25l[38;5;89me[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m [39;49m[?12l[?25h[?12;25h[?25l[38;5;89ms[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mt[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mo[39;49m[?12l[?25h[?12;25h[?25l[38;5;89mr[39;49m[?12l[?25h[?12;25h[?25l[38;5;89me[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m:[39;49m[?12l[?25h[?12;25h[2;15H[?25l[38;5;89m"Produce to pick up from the store:"[39;49m[K[?12l[?25h[?12;25h[2;7H[?25l[48;5;80m{[39;49m [38;5;60mprint[39;49m [38;5;89m"Produce to pick up from the store:"[39;49m}[?12l[?25h[?12;25h[2;7H[?25l{[2;52H[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m2[39;49m[3;21H[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m3[39;49m[4;1H[?12l[?25h[?12;25h[26d[?25lEnd of buffer[4;1H[?12l[?25h[?12;25h[26d[K[4d[26d[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/parse_awk_commands_test.awk...[4;1H[?12l[?25h[?12;25h[26d[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/parse_awk_commands_test.awk[K[4;1H[?12l[?25h[?12;25h[25;6H[?25l[30m[48;5;250m--[39;49m[4;1H[?12l[?25h[?12;25h[26d[K[4d[26d[?25l(No files need saving)[4;1H[?12l[?25h[?12;25h[26d[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ emacs -nw parse_awk_commands_test.awkawk -f parse_awk_commands_test.awk test.ttxt
+Produce to pick up from the store:
+bananas
+spinach
+apples
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat [K[K[K[Kemacs -nw _test[K[K[K[K[Kshopping_list.csc[Kv
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H[7mFile Edit Options Buffers Tools Help                                                    [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250mshopping_list.csv[0m[39;49m[30m[48;5;250m   All L1     (Fundamental) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[2d[?25ld[25;6H[30m[48;5;250m**[39;49m[2;2H[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[?25lm[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lk[?12l[?25h[?12;25h[?25l1[?12l[?25h[?12;25h[K[?25l,[?12l[?25h[?12;25h[C[?25l1[?12l[?25h[?12;25h[25;39H[?25l[30m[48;5;250m2[39;49m[H
+
+[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[?25lb[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lb[?12l[?25h[?12;25h[K[?25ln[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[C[?25l5[?12l[?25h[?12;25h[25;39H[?25l[30m[48;5;250m3[39;49m[4;1H[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h	[?25lc[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[C[?25l1[?12l[?25h[?12;25h[25;39H[?25l[30m[48;5;250m4[39;49m[5;1H[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[C[?25l1[?12l[?25h[?12;25h[25;39H[?25l[30m[48;5;250m5[39;49m[6;1H[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[K[K[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[K[?25la[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[C[?25l6[?12l[?25h[?12;25h[25;39H[?25l[30m[48;5;250m6[39;49m[7;1H[?12l[?25h[?12;25h[?25lm[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[C[?25ls[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lm[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[C[?25l1[?12l[?25h[?12;25h[25;39H[?25l[30m[48;5;250m7[39;49m[8;1H[?12l[?25h[?12;25h[?25lg[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lf[?12l[?25h[?12;25h[?25lf[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25l,[?12l[?25h[?12;25h	[?25l1[?12l[?25h[?12;25h[26;1H[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/shopping_list.csv...[8;18H[?12l[?25h[?12;25h[26;1H[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/shopping_list.csv[K[8;18H[?12l[?25h[?12;25h[25;6H[?25l[30m[48;5;250m--[39;49m[8;18H[?12l[?25h[?12;25h[26;1H[K[8;18H[26;1H[?25l(No changes need to be saved)[8;18H[?12l[?25h[?12;25h[26;1H[K[8;18H[26;1H[?25l(No files need saving)[8;18H[?12l[?25h[?12;25h[26;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ g[Kjobs 
+[1]+  Stopped                 emacs -nw shopping_list.txt
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ kill $[K%1
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ jo[Kobs
+[1]+  Exit 15                 emacs -nw shopping_list.txt
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [H[2J]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ jobskill %1[2Pjobs emacs -nw shopping_list.csvawk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [13Pemacs -nw shopping_list.csv
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [3Pemacs -nw parse_awk_commands_test.awk
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [3Pemacs -nw parse_awk_commands_test.awk
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H[7mFile Edit Options Buffers Tools AWK Help                                                [0m[39;49m[27m
+[A
+[38;5;129mBEGIN[39;49m { [38;5;60mprint[39;49m [38;5;89m"Produce to pick up from the store:"[39;49m}[K
+[38;5;89m/produce/[39;49m {[38;5;60mprint[39;49m $2}[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UU-:----F1  [39;49m[1m[30m[48;5;250mparse_awk_commands_test.awk[0m[39;49m[30m[48;5;250m   All L1     (AWK/l Abbrev) -------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[25;49H[?25l[30m[48;5;250m2[39;49m[H
+
+[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m3[39;49m[4;1H[?12l[?25h[?12;25h[26d[?25lEnd of buffer[4;1H[?12l[?25h[?12;25h[26d[K[25;49H[?25l[30m[48;5;250m2[39;49m[H
+
+[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m1[39;49m[H
+[?12l[?25h[?12;25h[26d[?25lBeginning of buffer[H
+[?12l[?25h[?12;25h[26d[K[2;2H[C[C[C[C[C		[C[K
+[?25l    [38;5;60mprint[39;49m [38;5;89m"Produce to pick up from the store:"[39;49m}
+[38;5;89m/produce/[39;49m {[38;5;60mprint[39;49m $2}[25;6H[30m[48;5;250m**--F1  [39;49m[1m[30m[48;5;250mparse_awk_commands_test.awk[0m[39;49m[30m[48;5;250m   All L2[39;49m[3;5H[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m1[39;49m[2;5H[?12l[?25h[?12;25h		[?25lF[?12l[?25h[?12;25h[?25l[38;5;130mFS[39;49m[?12l[?25h[?12;25h[?25l=[?12l[?25h[?12;25h[?25l[1m[91m"                                                                            [0m[39;49m
+[2;13H[?12l[?25h[?12;25h[?25l[38;5;89m,[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m","[39;49m[K[?12l[?25h[?12;25h[26;1H[?25lAuto-saving...[2d[?12l[?25h[?12;25h[26d[?25ldone[2;15H[?12l[?25h[?12;25h[26;1H[K[2;14H[25;49H[?25l[30m[48;5;250m2[39;49m[3;14H[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m3[39;49m[4;14H[?12l[?25h[?12;25h[25;49H[?25l[30m[48;5;250m4[39;49m[5;1H[?12l[?25h[?12;25h[26d[?25lEnd of buffer[5;1H[?12l[?25h[?12;25h[26d[K[5d[?25lE[?12l[?25h[?12;25h[?25lN[?12l[?25h[?12;25h[?25l[38;5;129mEND[39;49m[?12l[?25h[?12;25h[C[?25l{[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25l[38;5;60mprint[39;49m[?12l[?25h[?12;25h[C[?25l[1m[91m"[0m[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[?25l[38;5;89m-[39;49m[?12l[?25h[?12;25h[5;12H[?25l[38;5;89m"------------------"[39;49m[?12l[?25h[?12;25h[5;5H[?25l[48;5;80m{[39;49m[38;5;60mprint[39;49m [38;5;89m"------------------"[39;49m}[?12l[?25h[?12;25h[5;5H[?25l{				[?12l[?25h[?12;25h[26;1H[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/parse_awk_commands_test.awk...[5;33H[?12l[?25h[?12;25h[26;1H[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/parse_awk_commands_test.awk[K[5;33H[?12l[?25h[?12;25h[25;6H[?25l[30m[48;5;250m--[39;49m[5;33H[?12l[?25h[?12;25h[26;1H[K[5;33H[26;1H[?25l(No files need saving)[5;33H[?12l[?25h[?12;25h[26;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ emacs -nw parse_awk_commands_test.awkjobs[Kkill %1[2Pjobs emacs -nw shopping_list.csvawk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [3Pemacs -nw parse_awk_commands_test.awk
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk -f parse_awk_commands_test.awk test.ttxt
+Produce to pick up from the store:
+
+
+
+------------------
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.awk test.ttxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk -f parse_awk_commands_test.awk test.ttxt[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[Kawk_c ommands_testing.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[Kshoppiing_list.csv 
+Produce to pick up from the store:
+bananas
+spinach
+applies
+------------------
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ subl shopping_list.csv 
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ subl  pa[K[K[K[K[K[K[K[Knano parse_awk_commands_test.awk
+[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;37H(B[0;7m[ Reading File ][3d(B[m[24;43H(B[0;7m 4 lines[7d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3           File: parse_awk_commands_test.awk                            [3;1H(B[0;1m[32mBEGIN[39m(B[m [32m{[39m(B[m [31mFS[32m=(B[0;1m[33m","[4;5H[32mprint[39m(B[m (B[0;1m[33m"Produce to pick up from the store:"(B[0m[32m}[5d/[39m(B[mproduce[32m/[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[31m$2(B[0m[32m}[6d(B[0;1m[32mEND[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[33m"------------------"(B[0m[32m}[25d[39m(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[26d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[3d[4d[5d[A    [C[C[C[C[C [C[C[C[C[C[C[C[C[C[5d[1;79H(B[0;7mModified[5;18H(B[0;1m[31m$$2(B[0m[32m}[24d[39m(B[m[K[5;19H(B[0;1m[31m1$2(B[0m[32m}[39m(B[m (B[0;1m[31m$2(B[0m[32m}[39m(B[m[24d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                            [25;1H Y(B[m Yes[K[26d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[24;62H(B[0;7mFile Name to Write: parse_awk_commands_test.awk             [25d^G(B[m Get Help[18G(B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append[52G(B[0;7mM-B(B[m Backup File[26d(B[0;7m^C(B[m Cancel[17G (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend[52G(B[0;7m^T(B[m To Files[24;48H[?25l[24;35H[39;49m(B[m[1K (B[0;7m[ Wrote 4 lines ](B[m[K[5;21H[24d[J[1;79H(B[0;7m        [26;88H(B[m[26;1H[?12l[?25h[?1049l[?1l>]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ nano parse_awk_commands_test.awk[9Psubl shopping_list.csv awk -f parse_awk_commands_test.awk shoppiing_list.csv 
+Produce to pick up from the store:
+producebananas
+producespinach
+produceapples
+------------------
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.awk shoppiing_list.csv [A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [8Pnano parse_awk_commands_test.awk
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;37H(B[0;7m[ Reading File ][3d(B[m[24;43H(B[0;7m 4 lines[7d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3           File: parse_awk_commands_test.awk                            [3;1H(B[0;1m[32mBEGIN[39m(B[m [32m{[39m(B[m [31mFS[32m=(B[0;1m[33m","[4;5H[32mprint[39m(B[m (B[0;1m[33m"Produce to pick up from the store:"(B[0m[32m}[5d/[39m(B[mproduce[32m/[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[31m$1[39m(B[m (B[0;1m[31m$2(B[0m[32m}[6d(B[0;1m[32mEND[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[33m"------------------"(B[0m[32m}[25d[39m(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[26d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[3d[4d[5d[Cproduce[C [C[C[C[C[C[C [C[C[1;79H(B[0;7mModified[5;20H(B[m, (B[0;1m[31m$2(B[0m[32m}[39m(B[m[24d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                            [25;1H Y(B[m Yes[K[26d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[24;62H(B[0;7mFile Name to Write: parse_awk_commands_test.awk             [25d^G(B[m Get Help[18G(B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append[52G(B[0;7mM-B(B[m Backup File[26d(B[0;7m^C(B[m Cancel[17G (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend[52G(B[0;7m^T(B[m To Files[24;48H[?25l[24;35H[39;49m(B[m[1K (B[0;7m[ Wrote 4 lines ](B[m[K[5;21H[24d[J[1;79H(B[0;7m        [26;88H(B[m[26;1H[?12l[?25h[?1049l[?1l>]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ nano parse_awk_commands_test.awkawk -f parse_awk_commands_test.awk shoppiing_list.csv 
+Produce to pick up from the store:
+produce bananas
+produce spinach
+produce apples
+------------------
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.awk shoppiing_list.csv [A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [8Pnano parse_awk_commands_test.awk
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;37H(B[0;7m[ Reading File ][3d(B[m[24;43H(B[0;7m 4 lines[7d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3           File: parse_awk_commands_test.awk                            [3;1H(B[0;1m[32mBEGIN[39m(B[m [32m{[39m(B[m [31mFS[32m=(B[0;1m[33m","[4;5H[32mprint[39m(B[m (B[0;1m[33m"Produce to pick up from the store:"(B[0m[32m}[5d/[39m(B[mproduce[32m/[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[31m$1[39m(B[m, (B[0;1m[31m$2(B[0m[32m}[6d(B[0;1m[32mEND[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[33m"------------------"(B[0m[32m}[25d[39m(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[26d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[3d[4d[5d[A[4;48H7[5;23r8[5dM[1;26r[1;79H(B[0;7mModified[5d(B[m$(B[0;1m[31m$3[39m(B[m[32m>[39m(B[m1[42m [49m(B[m [32m{[39m(B[mprin(B[0;1m[32mprint[39m(B[m[42m [49m(B[m $(B[0;1m[31m$2[39m(B[m[32m}[39m(B[m[6d[C 1, (B[0;1m[31m$2(B[0m[32m}[39m(B[m[K[18G, (B[0;1m[31m$2(B[0m[32m}[39m(B[m[K[18G (B[0;1m[31m$2(B[0m[32m}[39m(B[m[K[24d[K[6;18H (B[0;1m[31m$2(B[0m[32m}[39m(B[m[K[24d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                            [25;1H Y(B[m Yes[K[26d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[24;62H(B[0;7mFile Name to Write: parse_awk_commands_test.awk             [25d^G(B[m Get Help[18G(B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append[52G(B[0;7mM-B(B[m Backup File[26d(B[0;7m^C(B[m Cancel[17G (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend[52G(B[0;7m^T(B[m To Files[24;48H[?25l[24;35H[39;49m(B[m[1K (B[0;7m[ Wrote 5 lines ](B[m[K[6;18H[24d[J[1;79H(B[0;7m        [26;88H(B[m[26;1H[?12l[?25h[?1049l[?1l>]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ nano parse_awk_commands_test.awkawk -f parse_awk_commands_test.awk shoppiing_list.csv 
+Produce to pick up from the store:
+bananas
+bananas
+spinach
+apples
+apples
+------------------
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.awk shoppiing_list.csv [A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [8Pnano parse_awk_commands_test.awk
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;37H(B[0;7m[ Reading File ][3d(B[m[24;43H(B[0;7m 5 lines[8d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3           File: parse_awk_commands_test.awk                            [3;1H(B[0;1m[32mBEGIN[39m(B[m [32m{[39m(B[m [31mFS[32m=(B[0;1m[33m","[4;5H[32mprint[39m(B[m (B[0;1m[33m"Produce to pick up from the store:"(B[0m[32m}[5d(B[0;1m[31m$3(B[0m[32m>[39m(B[m1 [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[31m$2(B[0m[32m}[6d/[39m(B[mproduce[32m/[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[31m$2(B[0m[32m}[7d(B[0;1m[32mEND[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[33m"------------------"(B[0m[32m}[25d[39m(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[26d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[3d[1;79H(B[0;7mModified[3d(B[mxBEGIN [32m{[39m(B[m [31mFS[32m=(B[0;1m[33m","[C[39m(B[m[24d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                            [25;1H Y(B[m Yes[K[26d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[24;62H[J[26;88H[26;1H[?1049l[?1l>]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ nano parse_awk_commands_test.awkawk -f parse_awk_commands_test.awk shoppiing_list.csv 
+Produce to pick up from the store:
+bananas
+bananas
+spinach
+apples
+apples
+------------------
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -f parse_awk_commands_test.awk shoppiing_list.csv [A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [8Pnano parse_awk_commands_test.awk
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;37H(B[0;7m[ Reading File ][3d(B[m[24;43H(B[0;7m 5 lines[8d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3           File: parse_awk_commands_test.awk                            [3;1H(B[0;1m[32mBEGIN[39m(B[m [32m{[39m(B[m [31mFS[32m=(B[0;1m[33m","[4;5H[32mprint[39m(B[m (B[0;1m[33m"Produce to pick up from the store:"(B[0m[32m}[5d(B[0;1m[31m$3(B[0m[32m>[39m(B[m1 [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[31m$2(B[0m[32m}[6d/[39m(B[mproduce[32m/[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[31m$2(B[0m[32m}[7d(B[0;1m[32mEND[39m(B[m [32m{(B[0;1m[32mprint[39m(B[m (B[0;1m[33m"------------------"(B[0m[32m}[25d[39m(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[26d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[3d[4d[5d[6d[Cproduce[C [C[C[24d[J[26;88H[26;1H[?1049l[?1l>]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ ''[K[Kecho ''
+
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [H[2J]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ 9
+9: command not found
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ echo 8
+8
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [H[2J]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ echo 8[Kmore /etc/passwd
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:100:102:systemd Time Synchronization,,,:/run/systemd:/bin/false
+systemd-network:x:101:103:systemd Network Management,,,:/run/systemd/netif:/bin/false
+systemd-resolve:x:102:104:systemd Resolver,,,:/run/systemd/resolve:/bin/false
+systemd-bus-proxy:x:103:105:systemd Bus Proxy,,,:/run/systemd:/bin/false
+syslog:x:104:108::/home/syslog:/bin/false
+_apt:x:105:65534::/nonexistent:/bin/false
+messagebus:x:106:110::/var/run/dbus:/bin/false
+[7m--More--(54%)[27muuidd:x:107:111::/run/uuidd:/bin/false
+lightdm:x:108:114:Light Display Manager:/var/lib/lightdm:/bin/false
+whoopsie:x:109:116::/nonexistent:/bin/false
+avahi-autoipd:x:110:119:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/bin/false
+avahi:x:111:120:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/bin/false
+dnsmasq:x:112:65534:dnsmasq,,,:/var/lib/misc:/bin/false
+colord:x:113:123:colord colour management daemon,,,:/var/lib/colord:/bin/false
+speech-dispatcher:x:114:29:Speech Dispatcher,,,:/var/run/speech-dispatcher:/bin/false
+hplip:x:115:7:HPLIP system user,,,:/var/run/hplip:/bin/false
+kernoops:x:116:65534:Kernel Oops Tracking Daemon,,,:/:/bin/false
+pulse:x:117:124:PulseAudio daemon,,,:/var/run/pulse:/bin/false
+rtkit:x:118:126:RealtimeKit,,,:/proc:/bin/false
+saned:x:119:127::/var/lib/saned:/bin/false
+usbmux:x:120:46:usbmux daemon,,,:/var/lib/usbmux:/bin/false
+nikosl90:x:1000:1000:nikos,,,:/home/nikosl90:/bin/bash
+nvidia-persistenced:x:121:129:NVIDIA Persistence Daemon,,,:/:/sbin/nologin
+gdm:x:122:130:Gnome Display Manager:/var/lib/gdm3:/bin/false
+sshd:x:123:65534::/var/run/sshd:/usr/sbin/nologin
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -F: '[K'termin[K[K[K[K[K[Knik[K[K[K[K'/nik/ {print};[K' e[K/etc/passwd
+nikosl90:x:1000:1000:nikos,,,:/home/nikosl90:/bin/bash
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -F: '/nik/ {print}' /etc/passwd | aw k '.[K/.*/ {print $1}[K, $2"'[K[K}'
+nikosl90:x:1000:1000:nikos,,,:/home/nikosl90:/bin/bash 
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ awk -F: '/nik/ {print}' /etc/passwd | awkk '/.*/ {print $1, $2}'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@f[C[1@ [1@"[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C $[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C $1[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$1,[1P $2}'[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C $1, [1P$2}'[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$1, $[1P2}'[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1, $2[1P}'[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C, $2}[1P'[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C $2}'[K[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$2}' [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P2}'
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P}'[1P'[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kawk [K[K[K[Kemacs -nw sed_tutorial.sh
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[26d[?25lSetting up indent for shell type sh[H
+[?12l[?25h[?12;25h[26d[?25lIndentation variables are now local.[H
+[?12l[?25h[?12;25h[26;13H[?25lsetup for shell type sh[K[H
+[?12l[?25h[?12;25h[26d[?25lIndentation setup for shell type sh[K[H[7mFile Edit Options Buffers Tools Sh-Script Help                                          [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250msed_tutorial.sh[0m[39;49m[30m[48;5;250m   All L1     (Shell-script[sh]) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[2d[?25l[38;5;124m#[39;49m[25;6H[30m[48;5;250m**[39;49m[2;2H[?12l[?25h[?12;25h[?25l[38;5;124ms[39;49m[?12l[?25h[?12;25h[?25l[38;5;124me[39;49m[?12l[?25h[?12;25h[?25l[38;5;124md[39;49m[?12l[?25h[?12;25h[?25l[38;5;124m [39;49m[?12l[?25h[?12;25h[?25l[38;5;124ms[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mt[39;49m[?12l[?25h[?12;25h[?25l[38;5;124ma[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mn[39;49m[?12l[?25h[?12;25h[?25l[38;5;124md[39;49m[?12l[?25h[?12;25h[?25l[38;5;124m [39;49m[?12l[?25h[?12;25h[K[?25l[38;5;124ms[39;49m[?12l[?25h[?12;25h[?25l[38;5;124m [39;49m[?12l[?25h[?12;25h[?25l[38;5;124mf[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mo[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mr[39;49m[?12l[?25h[?12;25h[?25l[38;5;124m [39;49m[?12l[?25h[?12;25h[?25l[38;5;124ms[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mt[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mr[39;49m[?12l[?25h[?12;25h[?25l[38;5;124ma[39;49m[?12l[?25h[?12;25h[?25l[38;5;124me[39;49m[?12l[?25h[?12;25h[?25l[38;5;124ma[39;49m[?12l[?25h[?12;25h[K[K[K[?25l[38;5;124me[39;49m[?12l[?25h[?12;25h[?25l[38;5;124ma[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mm[39;49m[?12l[?25h[?12;25h[?25l[38;5;124m [39;49m[?12l[?25h[?12;25h[?25l[38;5;124me[39;49m[?12l[?25h[?12;25h[?25l[38;5;124md[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mi[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mt[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mo[39;49m[?12l[?25h[?12;25h[?25l[38;5;124mr[39;49m[?12l[?25h[?12;25h[C[?25l[1@[38;5;124m [39;49m[?12l[?25h[?12;25h[26;1H[?25lEnd of buffer[2;31H[?12l[?25h[?12;25h[26;1H[K[2;31H[?25l[38;5;124m                                                          [39;49m
+[25;37H[30m[48;5;250m2[39;49m[H
+
+[?12l[?25h[?12;25h[?25l[38;5;124m#[39;49m[?12l[?25h[?12;25h[?25l[38;5;124m [39;49m[?12l[?25h[?12;25h[26;1H[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/sed_tutorial.sh...[3;3H[?12l[?25h[?12;25h[26;1H[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/sed_tutorial.sh[K[3;3H[?12l[?25h[?12;25h[?25l[38;5;124m                                                                                      [39;49m
+[25;6H[30m[48;5;250m--[39;49m[3;3H[?12l[?25h[?12;25h[26;1H[K[3;2H[C[25;37H[?25l[30m[48;5;250m3[39;49m[4;1H[?12l[?25h[?12;25h[26d[?25lEnd of buffer[4;1H[?12l[?25h[?12;25h[26d[K[25;37H[?25l[30m[48;5;250m2[39;49m[3;3H[?12l[?25h[?12;25h[26;1H[?25l(No changes need to be saved)[3;3H[?12l[?25h[?12;25h[26;1H[K[3;3H[26;1H[?25l(No files need saving)[3;3H[?12l[?25h[?12;25h[26;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ emacs -nw sed_test[K[K[Kx[Kext.sh[K[Ktxt
+[?1049h[?12;25h[?1h=[H[2J[26d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[25d[?25l[30m[47m-UUU:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) -----------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/etc/emacs/site-start.d/50dictionaries-common.el (source)...[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-default.el (source)...[H
+[?12l[?25h[?12;25h[26;77H[?25ldone[H
+[?12l[?25h[?12;25h[26;9H[?25ldebian-ispell...done[K[H
+[?12l[?25h[?12;25h[26;9H[?25l/var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...[H
+[?12l[?25h[?12;25h[26;75H[?25ldone[H
+[?12l[?25h[?12;25h[26;10H[?25letc/emacs/site-start.d/50dictionaries-common[6P[H
+[?12l[?25h[?12;25h[>0c[26d[?25lLoading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                   [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[26d[?25l(New file)[K[H[7mFile Edit Options Buffers Tools Text Help                                               [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-UUU:----F1  [39;49m[1m[30m[48;5;250msed_text.txt[0m[39;49m[30m[48;5;250m   All L1     (Text) ------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[26d[K[2d[?25l1[25;6H[30m[48;5;250m**[39;49m[2;2H[?12l[?25h[?12;25h[?25l0[?12l[?25h[?12;25h[C[?25lt[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h	[?25lt[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[K[?25lo[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m2[39;49m[H
+
+[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[C[?25li[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h	[?25lt[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m3[39;49m[4;1H[?12l[?25h[?12;25h[?25l5[?12l[?25h[?12;25h[C[?25lf[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h	[?25l0[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m4[39;49m[5;1H[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[C[?25lt[?12l[?25h[?12;25h[?25lw[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h	[?25lt[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[25;34H[?25l[30m[48;5;250m5[39;49m[6;1H[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[K[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[C[?25lt[?12l[?25h[?12;25h[?25lw[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[26;1H[?25lSaving file /home/nikosl90/Regular_Expressions_(regexps)/sed_text.txt...[6;11H[?12l[?25h[?12;25h[26;1H[?25lWrote /home/nikosl90/Regular_Expressions_(regexps)/sed_text.txt[K[6;11H[?12l[?25h[?12;25h[25;6H[?25l[30m[48;5;250m--[39;49m[6;11H[?12l[?25h[?12;25h[26;1H[K[6;11H[26;1H[?25l(No files need saving)[6;11H[?12l[?25h[?12;25h[26;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ man sed
+[?1049h[?1h=SED(1)                              User Commands                              SED(1)[m
+[m
+[1mNAME[0m[m
+       sed - stream editor for filtering and transforming text[m
+[m
+[1mSYNOPSIS[0m[m
+       [1msed[0m [[4mOPTION[24m]... [4m{script-only-if-no-other-script}[24m [[4minput-file[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       [4mSed[24m  is a stream editor.  A stream editor is used to perform basic text trans‐[m
+       formations on an input stream (a file or input from  a  pipeline).   While  in[m
+       some  ways similar to an editor which permits scripted edits (such as [4med[24m), [4msed[24m[m
+       works by making only one pass over the  input(s),  and  is  consequently  more[m
+       efficient.  But it is [4msed[24m's ability to filter text in a pipeline which partic‐[m
+       ularly distinguishes it from other types of editors.[m
+[m
+       [1m-n[0m, [1m--quiet[0m, [1m--silent[0m[m
+[m
+              suppress automatic printing of pattern space[m
+[m
+       [1m-e[0m script, [1m--expression[0m=[4mscript[24m[m
+[m
+              add the script to the commands to be executed[m
+[m
+       [1m-f[0m script-file, [1m--file[0m=[4mscript-file[24m[m
+[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cp[K[Kcat text | sed 's///'t//'[CT/'
+cat: text: No such file or directory
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat text | sed 's/t/T/'[C[C[C[1P[1P[1P[1P[1@s[1@e[1@d[1@_[1@t[1@e[1@x[5@t.txt
+10 Tiny toes
+This is that
+5 funny 0
+one Two three
+Tree twice
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ subl sed_tur[Ktorial.sh 
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ subl sed_tutorial.sh [Ksubl sed_tutorial.sh cat sed_text.txt | sed 's/t/T/'[10Psubl sed_tutorial.sh [Ksubl sed_tutorial.sh cat sed_text.txt | sed 's/t/T/'[10Psubl sed_tutorial.sh [Ksubl sed_tutorial.sh cat sed_text.txt | sed 's/t/T/'[C[C[10Psubl sed_tutorial.sh [Ksubl sed_tutorial.sh [Ksubl sed_tutorial.sh [Ksubl sed_tutorial.sh cat sed_text.txt | sed 's/t/T/'[C[C[C[Cg'
+10 Tiny Toes
+This is ThaT
+5 funny 0
+one Two Three
+Tree Twice
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sed_text.txt | sed 's/t/T/g'[1P/T/g'T/T/g'[C[1P/g't/g'
+10 tiny toes
+this is that
+5 funny 0
+one two three
+tree twice
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sed_text.txt | sed 's/T/t/g'[1P'g'
+10 tiny toes
+this is that
+5 funny 0
+one two three
+tree twice
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sed_tes[Kxt.txt 
+10 tiny toes
+this is that
+5 funny 0
+one two three
+tree twice
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sed_text.txt | sed 's/T/t/g' > s[Kes[K[Ksedde d_text.txt
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sedded_text.txt 
+10 tiny toes
+this is that
+5 funny 0
+one two three
+tree twice
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sedded_text.txt [Kcat sedded_text.txt _text.txt | sed 's/T/t/g' > seddedd_text.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_[1Ptext.txt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_t[1Pext.txt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_te[1Pxt.txt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_tex[1Pt.txt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_text[1P.txt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_text.[1Ptxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_text.t[1Pxt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_text.tx[1Pt[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_text.txt[K[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' > sedded_text.txt [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[1@ [1@-[1@i
+sed: no input files
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ sed -i 's/T/t/g' > sedded_text.txt[Ksed -i 's/T/t/g' > sedded_text.txt[14Pcat sedded_text.txt sed -i 's/T/t/g' > sedded_text.txt[Kman set[K[K[K[K[K[K[Kcat sed_text.txt  [K| sed -i 's/T/t/g' sedd ed_text.txt 
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sedded_text.txt 
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sedded_text.txt _text.txt | sed -i 's/T/t/g' seddeed_text.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>sedd[1@e[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>sed[1@d[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C se[C[1@d[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+sed: no input files
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sed_text.txt | sed -i 's/T/t/g' >> seedded_text.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C sed[C[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+sed: no input files
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sed_text.txt | sed -i 's/T/t/g' > seddded_text.txt [A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C> se[C[1@d[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C's/T/t/g' >> sed[C[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C's/T/t/g' >> sedd[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C's/T/t/g' >> sedde[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C's/T/t/g' >> sedded[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 's/T/t/g' >> sedde[1@d[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ cat sed_text.txt | sed 's/T/t/g' >> seddeed_text.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman set[Kd
+[?1049h[?1h=SED(1)                              User Commands                              SED(1)[m
+[m
+[1mNAME[0m[m
+       sed - stream editor for filtering and transforming text[m
+[m
+[1mSYNOPSIS[0m[m
+       [1msed[0m [[4mOPTION[24m]... [4m{script-only-if-no-other-script}[24m [[4minput-file[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       [4mSed[24m  is a stream editor.  A stream editor is used to perform basic text trans‐[m
+       formations on an input stream (a file or input from  a  pipeline).   While  in[m
+       some  ways similar to an editor which permits scripted edits (such as [4med[24m), [4msed[24m[m
+       works by making only one pass over the  input(s),  and  is  consequently  more[m
+       efficient.  But it is [4msed[24m's ability to filter text in a pipeline which partic‐[m
+       ularly distinguishes it from other types of editors.[m
+[m
+       [1m-n[0m, [1m--quiet[0m, [1m--silent[0m[m
+[m
+              suppress automatic printing of pattern space[m
+[m
+       [1m-e[0m script, [1m--expression[0m=[4mscript[24m[m
+[m
+              add the script to the commands to be executed[m
+[m
+       [1m-f[0m script-file, [1m--file[0m=[4mscript-file[24m[m
+[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              add the contents of script-file to the commands to be executed[m
+[7m Manual page sed(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--follow-symlinks[0m[m
+[7m Manual page sed(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 6 (press h for help or q to quit)[27m[K[K              follow symlinks when processing in place[m
+[m
+       [1m-i[SUFFIX][0m, [1m--in-place[0m[=[4mSUFFIX[24m][m
+[m
+              edit files in place (makes backup if SUFFIX supplied)[m
+[m
+       [1m-l[0m N, [1m--line-length[0m=[4mN[24m[m
+[m
+              specify the desired line-wrap length for the `l' command[m
+[m
+       [1m--posix[0m[m
+[m
+              disable all GNU extensions.[m
+[m
+       [1m-r[0m, [1m--regexp-extended[0m[m
+[m
+              use extended regular expressions in the script.[m
+[m
+       [1m-s[0m, [1m--separate[0m[m
+[m
+              consider files as separate rather than  as  a  single  continuous  long[m
+              stream.[m
+[m
+       [1m-u[0m, [1m--unbuffered[0m[m
+[m
+[7m Manual page sed(1) line 31 (press h for help or q to quit)[27m[K[K              load  minimal amounts of data from the input files and flush the output[m
+              buffers more often[m
+[m
+       [1m-z[0m, [1m--null-data[0m[m
+[m
+              separate lines by NUL characters[m
+[m
+       [1m--help[0m[m
+              display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       If no [1m-e[0m, [1m--expression[0m, [1m-f[0m, or [1m--file[0m option is given,  then  the  first  non-[m
+       option  argument is taken as the sed script to interpret.  All remaining argu‐[m
+       ments are names of input files; if no input  files  are  specified,  then  the[m
+       standard input is read.[m
+[m
+       GNU sed home page: <http://www.gnu.org/software/sed/>.  General help using GNU[m
+       software:  <http://www.gnu.org/gethelp/>.   E-mail  bug  reports   to:   <bug-[m
+       sed@gnu.org>.   Be  sure  to  include the word ``sed'' somewhere in the ``Sub‐[m
+       ject:'' field.[m
+[m
+[1mCOMMAND[0m [1mSYNOPSIS[0m[m
+       This is just a brief synopsis of [4msed[24m commands to serve as a reminder to  those[m
+[7m Manual page sed(1) line 56 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ man sedcat sed_text.txt | sed 's/T/t/g' >> seddeed_text.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed 's/T/t/g' >> sedded_[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_t[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_te[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_tex[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_text[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_text.[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_text.t[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_text.tx[1P[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_text.txt[1P [A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_text.txt [K[A]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ [C[C[C[C[C[C[C sed 's/T/t/g' >> sedded_text.txt  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1@-[1@i[1@ 
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ ls -l
+total 2720
+-rw-rw-r-- 1 nikosl90 nikosl90  116112 Ιούν 15 13:31 awk_commands_testing.txt
+-rwxrw-r-- 1 nikosl90 nikosl90    3307 Ιούν 15 13:18 [0m[01;32mawk_tutorial.sh[0m
+-rwxrw-r-- 1 nikosl90 nikosl90    2328 Ιούν 15 11:27 [01;32mawk_tutorial.sh~[0m
+-rwxrwxrwx 1 nikosl90 nikosl90 1214717 Ιούν  8 22:02 [01;32mcompilers_index1.html[0m
+-rwxrwxrwx 1 nikosl90 nikosl90  278013 Ιούν  8 22:03 [01;32mcompilers_index2.html[0m
+-rwxrwxrwx 1 nikosl90 nikosl90  277787 Ιούν  8 22:03 [01;32mcompilers_index3.html[0m
+-rwxrwxrwx 1 nikosl90 nikosl90  277389 Ιούν  8 22:04 [01;32mcompilers_index4.html[0m
+-rwxrwxrwx 1 nikosl90 nikosl90  277412 Ιούν  8 22:04 [01;32mcompilers_index5.html[0m
+-rwxrwxrwx 1 nikosl90 nikosl90  277399 Ιούν  8 22:04 [01;32mcompilers_index6.html[0m
+-rw-rw-r-- 1 nikosl90 nikosl90     133 Ιούν 15 12:52 parse_awk_commands_test.awk
+-rw-rw-r-- 1 nikosl90 nikosl90      73 Ιούν 15 12:45 parse_awk_commands_test.awk~
+-rwxrwxrwx 1 nikosl90 nikosl90    1527 Ιούν 10 02:11 [01;32mregExp_testing1.rgxp[0m
+-rw-rw-r-- 1 nikosl90 nikosl90      61 Ιούν 15 13:31 sedded_text.txt
+-rw-rw-r-- 1 nikosl90 nikosl90      61 Ιούν 15 13:24 sed_text.txt
+-rw-rw-r-- 1 nikosl90 nikosl90      34 Ιούν 15 13:23 sed_tutorial.sh
+-rw-rw-r-- 1 nikosl90 nikosl90     118 Ιούν 15 12:51 shopping_list.csv
+-rw-rw-r-- 1 nikosl90 nikosl90     197 Ιούν 15 12:35 test.txt
+-rw-rw-r-- 1 nikosl90 nikosl90      98 Ιούν 15 12:25 test.txt~
+-rwxrwxrwx 1 nikosl90 nikosl90    3726 Ιούν  8 22:52 [01;32mtryToDownloadVideoList.txt[0m
+-rwxrwxrwx 1 nikosl90 nikosl90     158 Ιούν  9 10:35 [01;32mvideoPlaylistDownloader.bash[0m
+-rwxrwxrwx 1 nikosl90 nikosl90       0 Ιούν  8 22:40 [01;32mvideoPlaylistScriptDownloader.bash[0m
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ ls -l /etc/rc.local [K[K[K[K[K[Kd/
+ls: cannot access '/etc/rc.d/': No such file or directory
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ ruid
+No command 'ruid' found, did you mean:
+ Command 'rmid' from package 'openjdk-8-jre-headless' (main)
+ Command 'rmid' from package 'gcj-4.8-jre-headless' (universe)
+ Command 'rmid' from package 'openjdk-9-jre-headless' (universe)
+ Command 'rmid' from package 'gcj-4.9-jre-headless' (universe)
+ Command 'rmid' from package 'gcj-5-jre-headless' (main)
+ Command 'uuid' from package 'uuid' (universe)
+ruid: command not found
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ ls -la /etc/rc.d
+ls: cannot access '/etc/rc.d': No such file or directory
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ chkconfig
+chkconfig: command not found
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ ^C[K^C
+]0;nikosl90@Cobra: ~/Regular_Expressions_(regexps)[01;35mnikosl90@Cobra[00m:[01;34m~/Regular_Expressions_(regexps)[00m$ ex[K[Ke[Kexit
+exit
+
+Script done on Πεμ 15 Ιούν 2017 02:28:05 μμ EEST
